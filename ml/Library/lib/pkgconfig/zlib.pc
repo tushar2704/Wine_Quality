@@ -1,0 +1,13 @@
+prefix=D:/MLFLOW-Project/ml/Library
+exec_prefix=D:/MLFLOW-Project/ml/Library
+libdir=D:/MLFLOW-Project/ml/Library/lib
+sharedlibdir=D:/MLFLOW-Project/ml/Library/lib
+includedir=D:/MLFLOW-Project/ml/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

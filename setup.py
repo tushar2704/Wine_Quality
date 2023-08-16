@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "2.2.2"
 
-REPO_NAME = "MLFLOW-Project"
-AUTHOR_USER_NAME = "Tushar Aggarwal"
-SRC_REPO = "MLFLOW-Project"
-AUTHOR_EMAIL = "tushar.inseec@gmail.com"
+REPO_NAME = "MLFLOW"
+AUTHOR_USER_NAME = "tushar2704"
+SRC_REPO = "MLFLOW"
+AUTHOR_EMAIL = "tushar.27041994@gmail.com"
 
 
 setuptools.setup(
@@ -17,7 +17,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="MLFOW-Project package",
+    description="MLFLOW package",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
