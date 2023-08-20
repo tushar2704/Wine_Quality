@@ -1,1 +1,45 @@
 [2023-08-20 22:39:58,834: INFO: main: MLFLOW custom logging]
+[2023-08-20 23:33:37,867: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-20 23:33:37,869: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-20 23:36:46,448: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-20 23:36:46,456: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-20 23:36:46,464: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-20 23:36:46,475: INFO: common: created directory at: artifacts]
+[2023-08-20 23:36:46,475: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-20 23:36:47,978: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2768:1090E1:1E431F:2C0676:64E25635
+Accept-Ranges: bytes
+Date: Sun, 20 Aug 2023 18:06:45 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830045-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692554806.646768,VS0,VE320
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3697ec6eb40bf6130eab345bd87aa63b2d52e517
+Expires: Sun, 20 Aug 2023 18:11:45 GMT
+Source-Age: 0
+
+]
+[2023-08-20 23:48:57,883: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-08-20 23:48:57,883: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-20 23:48:57,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-20 23:48:57,893: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-20 23:48:57,893: INFO: common: created directory at: artifacts]
+[2023-08-20 23:48:57,893: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-20 23:48:57,893: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-08-20 23:48:57,893: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
