@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "2.1.0"
+__version__ = "1.0.0"
 
 REPO_NAME = "Wine_Quality"
 AUTHOR_USER_NAME = "tushar2704"
