@@ -1,9 +1,8 @@
 # Wine Quality Prediction with MLFLOW experiments
-### Wine Quality Prediction with MLFLOW experiments on Dagshub, Deployment via Docker image on AWS EC2
-![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)
-![MLflow Version](https://img.shields.io/badge/MLflow-1.21.0-green)
+### Predicting wine quality using machine learning techniques and managing the end-to-end workflow with MLFLOW experiments on Dagshub, Deployment via Docker image on AWS EC2
+![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.10-blue)
+![MLflow Version](https://img.shields.io/badge/MLflow-2.6.0-green)
 
-Predicting wine quality using machine learning techniques and managing the end-to-end workflow with MLflow.
 
 ## Table of Contents
 
