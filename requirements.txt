@@ -1,5 +1,5 @@
 pandas 
-mlflow==2.2.2
+mlflow==2.6.0
 notebook
 numpy
 scikit-learn

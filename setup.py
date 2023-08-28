@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "2.2.2"
+__version__ = "2.1.0"
 
-REPO_NAME = "MLFLOW"
+REPO_NAME = "Wine_Quality"
 AUTHOR_USER_NAME = "tushar2704"
-SRC_REPO = "MLFLOW"
+SRC_REPO = "Wine_Quality"
 AUTHOR_EMAIL = "tushar.27041994@gmail.com"
 
 
