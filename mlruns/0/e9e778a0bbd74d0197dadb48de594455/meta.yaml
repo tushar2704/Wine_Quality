@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality/mlruns/0/e9e778a0bbd74d0197dadb48de594455/artifacts
+end_time: 1693249520607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9e778a0bbd74d0197dadb48de594455
+run_name: popular-skunk-916
+run_uuid: e9e778a0bbd74d0197dadb48de594455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693249516536
+status: 3
+tags: []
+user_id: tusha

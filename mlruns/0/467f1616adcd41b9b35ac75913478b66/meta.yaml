@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality/mlruns/0/467f1616adcd41b9b35ac75913478b66/artifacts
+end_time: 1693250252931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 467f1616adcd41b9b35ac75913478b66
+run_name: angry-dove-659
+run_uuid: 467f1616adcd41b9b35ac75913478b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693250249210
+status: 3
+tags: []
+user_id: tusha

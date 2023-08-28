@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality/mlruns/0/3ea4649ceebb40398e5ab6c6deeb5fd1/artifacts
+end_time: 1693249458450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea4649ceebb40398e5ab6c6deeb5fd1
+run_name: worried-fowl-651
+run_uuid: 3ea4649ceebb40398e5ab6c6deeb5fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693249454510
+status: 3
+tags: []
+user_id: tusha

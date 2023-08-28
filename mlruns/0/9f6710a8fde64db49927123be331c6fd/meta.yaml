@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality/mlruns/0/9f6710a8fde64db49927123be331c6fd/artifacts
+end_time: 1693249735772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6710a8fde64db49927123be331c6fd
+run_name: dapper-goat-230
+run_uuid: 9f6710a8fde64db49927123be331c6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693249732004
+status: 3
+tags: []
+user_id: tusha
