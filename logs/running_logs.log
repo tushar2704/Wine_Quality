@@ -249,3 +249,53 @@ x==========x]
 [2023-08-28 22:35:12,138: INFO: common: created directory at: artifacts]
 [2023-08-28 22:35:12,138: INFO: common: created directory at: artifacts/model_evaluation]
 [2023-08-28 22:35:12,713: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2023-08-28 23:54:30,790: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-28 23:54:30,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-28 23:54:30,806: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-28 23:54:30,813: INFO: common: created directory at: artifacts]
+[2023-08-28 23:54:30,815: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-28 23:54:33,389: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 99B0:2017CF:5E092:9174C:64EC59CE
+Accept-Ranges: bytes
+Date: Mon, 28 Aug 2023 18:24:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830031-CCU
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1693247071.525203,VS0,VE306
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 250a9ddd3b23c0a4013d852eb1014f312d7b185c
+Expires: Mon, 28 Aug 2023 18:29:30 GMT
+Source-Age: 0
+
+]
+[2023-08-28 23:55:57,996: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-28 23:55:57,998: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-28 23:55:58,001: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-28 23:55:58,001: INFO: common: created directory at: artifacts]
+[2023-08-28 23:55:58,001: INFO: common: created directory at: artifacts/data_validation]
+[2023-08-28 23:56:02,466: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-28 23:56:02,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-28 23:56:02,470: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-28 23:56:02,476: INFO: common: created directory at: artifacts]
+[2023-08-28 23:56:02,478: INFO: common: created directory at: artifacts/data_validation]
+[2023-08-28 23:56:49,799: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-08-28 23:56:49,803: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-28 23:56:49,807: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-08-28 23:56:49,811: INFO: common: created directory at: artifacts]
+[2023-08-28 23:56:49,813: INFO: common: created directory at: artifacts/data_transformation]
+[2023-08-28 23:56:49,847: INFO: 2261784035: Splited data into training and test sets]
+[2023-08-28 23:56:49,851: INFO: 2261784035: (1199, 12)]
+[2023-08-28 23:56:49,854: INFO: 2261784035: (400, 12)]
