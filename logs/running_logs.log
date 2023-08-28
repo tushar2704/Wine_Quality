@@ -610,3 +610,40 @@ x==========x]
 [2023-08-29 00:47:32,931: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2023-08-29 00:59:59,190: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080]
+[2023-08-29 00:59:59,190: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-08-29 01:00:09,763: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:09] "GET / HTTP/1.1" 200 -]
+[2023-08-29 01:00:10,045: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:10] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2023-08-29 01:00:10,045: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:10] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2023-08-29 01:00:10,057: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:10] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2023-08-29 01:00:10,068: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:10] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2023-08-29 01:00:14,280: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:14] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-08-29 01:00:14,290: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:14] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2023-08-29 01:00:14,405: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:14] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-08-29 01:00:15,221: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:00:15] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2023-08-29 01:01:56,575: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "GET / HTTP/1.1" 200 -]
+[2023-08-29 01:01:56,611: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:01:56,618: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:01:56,625: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:01:56,627: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2023-08-29 01:01:56,702: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-08-29 01:01:56,702: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2023-08-29 01:01:56,769: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-08-29 01:01:56,954: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:01:56] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:10,715: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080]
+[2023-08-29 01:02:10,715: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-08-29 01:02:13,487: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "GET / HTTP/1.1" 200 -]
+[2023-08-29 01:02:13,643: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:13,652: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:13,654: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:13,654: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:13,685: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-08-29 01:02:13,712: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2023-08-29 01:02:13,753: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-08-29 01:02:13,890: INFO: _internal: 127.0.0.1 - - [29/Aug/2023 01:02:13] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
