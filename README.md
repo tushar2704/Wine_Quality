@@ -3,13 +3,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.10-blue)
 ![MLflow Version](https://img.shields.io/badge/MLflow-2.6.0-green)
 
-
-
-
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment.
