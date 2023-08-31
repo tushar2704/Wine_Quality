@@ -5,10 +5,7 @@
 
 
 
-  - [Data Preparation](#data-preparation)
-  - [Training](#training)
-  - [Prediction](#prediction)
-- [Project Structure](#project-structure)
+
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
