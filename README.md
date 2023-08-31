@@ -4,12 +4,7 @@
 ![MLflow Version](https://img.shields.io/badge/MLflow-2.6.0-green)
 
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
   - [Data Preparation](#data-preparation)
   - [Training](#training)
   - [Prediction](#prediction)
